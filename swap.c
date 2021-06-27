@@ -1,3 +1,4 @@
+#include <stdio.h>
 void swap_max(int s[], int l, int n ){
     int large=s[n],nos,flag=0;
   for(int i=n;i<l;i++){
